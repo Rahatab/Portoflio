@@ -1,30 +1,32 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+Home page
 
 ## Must-Haves
 
-> these are necessary for basic usability
+- [ ] As a user I want to see the name on the left and the navigator on the left
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+  - There is a name at the left and navigator on the left.
 
-## Should-Haves
+- [ ] As a user I want to see personal image with contact information and social
+      media links on the left.
 
-> these will complete the user experience, but are not necessary
+  - There is a personal image with contact information and social media links.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+  - [ ] As a user I want to see personal summary on the right.
+    - There is a personal summary on the right.
 
-## Could-Haves
+Skills page
 
-> would be really cool ... if there's time
+- [ ] As a user I want to section skills with 4 divisions.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+  - There is section skills with 4 divisions.
+
+Career Experience page
+
+- [ ] As a user I want to section career experience.
+
+  - There is section career experience.
+
+- [ ] As a user I want to footer of the portfolio.
+  - There is footer of the portfolio.
