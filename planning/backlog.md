@@ -18,15 +18,11 @@ Home page
 
 Skills page
 
-## Must-Haves
-
 - [ ] As a user I want to section skills with 4 divisions.
 
   - There is section skills with 4 divisions.
 
 Career Experience page
-
-## Must-Haves
 
 - [ ] As a user I want to section career experience.
 
