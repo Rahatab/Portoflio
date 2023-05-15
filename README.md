@@ -1,7 +1,11 @@
 # Portfoilio
 
->Definition
- Collection of your work or achievements that show your skills, experience, and abilities in a particular field. It is commonly used by professionals, artists, designers, writers, and individuals in creative industries to demonstrate their talent and expertise. A portfolio can be presented in various formats, including physical documents, digital files, websites, or online platforms.
+Collection of your work or achievements that show your skills, experience, and
+abilities in a particular field. It is commonly used by professionals, artists,
+designers, writers, and individuals in creative industries to demonstrate their
+talent and expertise. A portfolio can be presented in various formats, including
+physical documents, digital files, websites, or online platforms.
+
 ## Table of contents
 
 - [Portfoilio](#portfoilio)
@@ -22,7 +26,9 @@
 
 ## General info
 
->Portfolio should be a dynamic and evolving representation of your skills and capabilities.          Continuously refine and improve it as you progress in your career or develop new talents.
+> Portfolio should be a dynamic and evolving representation of your skills and
+> capabilities. Continuously refine and improve it as you progress in your
+> career or develop new talents.
 
 ## Screenshots
 
