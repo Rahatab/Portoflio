@@ -1,10 +1,10 @@
-# Name of project
+# Portfoilio
 
-> A longer description
-
+>Definition
+ Collection of your work or achievements that show your skills, experience, and abilities in a particular field. It is commonly used by professionals, artists, designers, writers, and individuals in creative industries to demonstrate their talent and expertise. A portfolio can be presented in various formats, including physical documents, digital files, websites, or online platforms.
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Portfoilio](#portfoilio)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -22,7 +22,7 @@
 
 ## General info
 
-> A short description
+>Portfolio should be a dynamic and evolving representation of your skills and capabilities.          Continuously refine and improve it as you progress in your career or develop new talents.
 
 ## Screenshots
 
@@ -30,14 +30,14 @@
 
 ## Technologies
 
-- Node 14.16.0
+- HTML
+- CSS
 - VSC code
 - JavaScript
-- ...
-- ...
 
 ## Setup
 
+- Clone the repo.
 - `npm run start`
 
 ## Code Examples
@@ -70,7 +70,7 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-By [Name]
+By [Rahatab Hassan]
 
 ## Instructions for use
 
