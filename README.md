@@ -1,6 +1,5 @@
 # Portfoilio
 
->Definition
  Collection of your work or achievements that show your skills, experience, and abilities in a particular field. It is commonly used by professionals, artists, designers, writers, and individuals in creative industries to demonstrate their talent and expertise. A portfolio can be presented in various formats, including physical documents, digital files, websites, or online platforms.
 ## Table of contents
 
