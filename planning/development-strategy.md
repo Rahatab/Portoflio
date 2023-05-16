@@ -18,11 +18,11 @@
 
 ## user story
 
-<!-- each issue created from this section will have the `for: user story` label -->
+### Section
 
 > "as a ... i can ... so that ..."
 
-<!-- write any extra notes or description -->
+## HTML
 
 <!-- describe the tasks to build this user story
   these will have the `type: logic` label, for example
