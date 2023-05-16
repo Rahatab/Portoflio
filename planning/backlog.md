@@ -1,6 +1,6 @@
 # Backlog
 
-Home page
+## `Home` page
 
 ## Must-Haves
 
@@ -14,15 +14,16 @@ Home page
   - There is a personal image with contact information and social media links.
 
   - [ ] As a user I want to see personal summary on the right.
+
     - There is a personal summary on the right.
 
-Skills page
+## `Skills` page
 
 - [ ] As a user I want to section skills with 4 divisions.
 
   - There is section skills with 4 divisions.
 
-Career Experience page
+## `Career Experience` page
 
 - [ ] As a user I want to section career experience.
 
