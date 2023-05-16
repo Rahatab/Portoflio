@@ -1,55 +1,73 @@
-# Project Name
+# Home page
 
-<!-- describe your project -->
+## Logo and navigation
 
----
+As a user I want to see logo and navigation of the page
 
-## Setup
+- This user story is developed on branch Home.
+- This branch is merged to main branch after completion.
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+### HTML
 
----
+- add nav
+- add a div parent
+- add img
+- add ul and inside ul li
+- add a inside li
+- add button
 
-<!-- copy this section once for each must-have user story -->
+### CSS
 
-## user story
+- add class logo to img
+- make display flex and add padding
+- add class nav-link
 
 ### Section
 
-> "as a ... i can ... so that ..."
+As a user I want to see photo with image and summary div
 
 ## HTML
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+- add div
+- add table with 4 columns
+- add img
+- add ul and inside ul li
 
-### Logic: user story
+### CSS
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- add height & padding
 
-### Interface: user story
+## Skill page
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+As a user I want to see 4 divisions for skill.
 
-### Interaction: user story
+- This user story is developed on branch Skill.
+- This branch is merged to main branch after completion.
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### HTML
 
-### Documentation: user story
+- add div
+- add img
+- add ul and inside ul li
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### CSS
+
+- add height & padding
+
+## Career page
+
+As a user I want to see 2 divisions for Career & the footer of the page
+
+- This user story is developed on branch Career.
+- This branch is merged to main branch after completion.
+
+### HTML
+
+- add div
+- add ul and inside ul li
+- add navfooter
+- add id
+
+### CSS
+
+- add height & padding

@@ -9,7 +9,8 @@
     "Rahatab",
     "Hassan",
     "wireframe",
-    "Wireframe"
+    "Wireframe",
+    "navfooter"
   ],
   "ignorePaths": [
     "node_modules/**",
