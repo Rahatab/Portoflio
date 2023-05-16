@@ -2,16 +2,22 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
-
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
-
----
+> Portfolio to show skills, experience, and abilities in a particular field. it
+> is commonly used by professionals, artists,designers, writers, and individuals
+> in creative industries to demonstrate their talent and expertise. A portfolio
+> can be presented in various formats, including physical documents, digital
+> files, websites, or online platforms.
 
 ## Wireframe(s)
 
-> Include your wireframe(s) and link to wireframe
+### Home Page
 
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+> ![Design](../public/Home.png)
+
+### Skills
+
+> ![Design](../public/Skill.png)
+
+### Career Experience
+
+> ![Design](../public/Career.png)
