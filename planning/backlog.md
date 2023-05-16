@@ -30,4 +30,5 @@
   - There is section career experience.
 
 - [ ] As a user I want to footer of the portfolio.
+
   - There is footer of the portfolio.
