@@ -1,6 +1,6 @@
-## Home page
+# Home page
 
-### Logo and navigation
+## Logo and navigation
 
 As a user I want to see logo and navigation of the page
 
@@ -26,7 +26,7 @@ As a user I want to see logo and navigation of the page
 
 As a user I want to see photo with image and summary div
 
-### HTML
+## HTML
 
 - add div
 - add table with 4 columns
