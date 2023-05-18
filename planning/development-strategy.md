@@ -22,26 +22,11 @@ As a user I want to see logo and navigation of the page
 - make display flex and add padding
 - add class nav-link
 
-### Section
+## About page
 
-As a user I want to see photo with image and summary div
+As a user I want to see title and photo with image and summary div.comment
 
-## HTML
-
-- add div
-- add table with 4 columns
-- add img
-- add ul and inside ul li
-
-### CSS
-
-- add height & padding
-
-## Skill page
-
-As a user I want to see 4 divisions for skill.
-
-- This user story is developed on branch Skill.
+- This user story is developed on branch Home.
 - This branch is merged to main branch after completion.
 
 ### HTML
@@ -54,11 +39,46 @@ As a user I want to see 4 divisions for skill.
 
 - add height & padding
 
-## Career page
+## Experience page
 
-As a user I want to see 2 divisions for Career & the footer of the page
+As a user I want to see tittle and section for Career experience.
 
-- This user story is developed on branch Career.
+- This user story is developed on branch .
+- This branch is merged to main branch after completion.
+
+### HTML
+
+- add div
+- add img
+- add ul and inside ul li
+
+### CSS
+
+- add height & padding
+
+## Skills page
+
+As a user I want to see tittle and 4 skills section with description.
+
+- This user story is developed on branch.
+- This branch is merged to main branch after completion.
+
+### HTML
+
+- add div
+- add ul and inside ul li
+- add navfooter
+- add id
+
+### CSS
+
+- add height & padding
+
+## Contact page
+
+As a user I want to see tittle & box for name, email ans message to contact.
+
+- This user story is developed on branch .
 - This branch is merged to main branch after completion.
 
 ### HTML

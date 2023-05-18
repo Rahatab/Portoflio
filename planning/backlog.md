@@ -2,8 +2,6 @@
 
 ## `Home` page
 
-## Must-Haves
-
 - [ ] As a user I want to see the name on the left and the navigator on the left
 
   - There is a name at the left and navigator on the left.
@@ -17,11 +15,11 @@
 
     - There is a personal summary on the right.
 
-## `Skills` page
+## `About` page
 
-- [ ] As a user I want to section skills with 4 divisions.
+[ ] As a user I want to see personal photo with information.
 
-  - There is section skills with 4 divisions.
+- There is a personal photo with information.
 
 ## `Career Experience` page
 
@@ -29,6 +27,19 @@
 
   - There is section career experience.
 
-- [ ] As a user I want to footer of the portfolio.
+## `Skills` page
 
-  - There is footer of the portfolio.
+- [ ] As a user I want to section skills with 4 divisions.
+
+  - There is section skills with 4 divisions.
+
+## `Contact` page
+
+- [ ] As a user I want to see tittle and boxs for name , email & message to
+      contact.
+
+  - There is tittle and boxs for name , email & message to contact.
+
+- [ ] As a user I want to see button send at the end.
+
+  - There is a button send at the end.

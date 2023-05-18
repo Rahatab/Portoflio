@@ -10,7 +10,13 @@
     "Hassan",
     "wireframe",
     "Wireframe",
-    "navfooter"
+    "navfooter",
+    "jfif",
+    "tablerow",
+    "careerpath",
+    "Chaussée",
+    "Uccle",
+    "boxs"
   ],
   "ignorePaths": [
     "node_modules/**",

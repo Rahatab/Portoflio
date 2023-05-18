@@ -14,10 +14,18 @@
 
 > ![Design](../public/Home.png)
 
+### About
+
+> ![Design](../public/About.png)
+
+### Experience
+
+> ![Design](../public/Experience.png)
+
 ### Skills
 
-> ![Design](../public/Skill.png)
+> ![Design](../public/Skills.png)
 
-### Career Experience
+### Contact
 
-> ![Design](../public/Career.png)
+![Design](../public/Contact.png)
