@@ -25,7 +25,7 @@ physical documents, digital files, websites, or online platforms.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./public/screenshoot.jpg)
 
 ## Technologies
 
