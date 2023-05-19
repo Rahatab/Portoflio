@@ -41,7 +41,7 @@ physical documents, digital files, websites, or online platforms.
 
 ## Status
 
-Project is: _in progress_
+Project is: _Done_
 
 ## Contact
 
